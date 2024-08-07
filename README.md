@@ -1,6 +1,6 @@
 # Primera página TECHNOLOCHICAS PRO
 
-El presente proyecto es una página web sobr Ariana Grande desarrollada para poner en práctica las habilidades obtenidad dentro del bootcamp de desarrollo frontend de Technolochicas PRO.
+El presente proyecto es una página web sobre Ariana Grande desarrollada para poner en práctica las primeras habilidades obtenidas dentro del bootcamp de desarrollo frontend de Technolochicas PRO.
 
 Fue desarrollado con HTML y CSS, aprovechando mis conocimientos previos en estas tecnologías. 
 
