@@ -6,7 +6,7 @@ Fue desarrollado con HTML y CSS, aprovechando mis conocimientos previos en estas
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla).
 
-[Proyecto Desplegado (https://portafolio-b7-g2-anadalay.vercel.app/)](https://mi-primera-pagina-anadalay.vercel.app/)
+[Proyecto Desplegado (https://mi-primera-pagina-anadalay.vercel.app/)](https://mi-primera-pagina-anadalay.vercel.app/)
 
 ## Secciones de mi sitio
 
