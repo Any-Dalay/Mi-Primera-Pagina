@@ -1,4 +1,4 @@
-# Portafolio de habilidades TECHNOLOCHICAS PRO
+# Primera página TECHNOLOCHICAS PRO
 
 El presente proyecto es una página web sobr Ariana Grande desarrollada para poner en práctica las habilidades obtenidad dentro del bootcamp de desarrollo frontend de Technolochicas PRO.
 
